@@ -207,3 +207,7 @@ git clone https://github.com/goodtft/LCD-show.git
 chmod -R 755 LCD-show
 cd LCD-show/
 sudo ./LCD35-show
+
+
+![image](https://github.com/user-attachments/assets/e19978f2-1abe-4268-853a-a6944bc455ae)
+
