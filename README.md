@@ -211,5 +211,13 @@ sudo ./LCD35-show
 
 ![image](https://github.com/user-attachments/assets/e19978f2-1abe-4268-853a-a6944bc455ae)
 
+sudo apt update
+sudo apt upgrade
+sudo reboot
+sudo apt-get install libgbm1 libgl1-mesa-dri libegl1-mesa libinput10
+
 in boot/firmware/config.txt add this line "dtoverlay=piscreen,drm"
+
+sudo apt-get install kmscube
+sudo kmscube
 
