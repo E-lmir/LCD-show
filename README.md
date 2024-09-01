@@ -211,3 +211,5 @@ sudo ./LCD35-show
 
 ![image](https://github.com/user-attachments/assets/e19978f2-1abe-4268-853a-a6944bc455ae)
 
+in boot/firmware/config.txt add this line "dtoverlay=piscreen,drm"
+
